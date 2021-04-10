@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -m "short message here"
+git branch -M main
+git remote add origin https://github.com/AmanGupta55/Open-Space-Final.git (first time doing this)
+git push -u origin main
+
+whenever someone makes a change git pull origin main

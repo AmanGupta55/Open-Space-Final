@@ -9,13 +9,12 @@ ________________________________________________________________________________
 
 git pull origin main
 git branch (check which branch ur in)
-git branch "new branch name" (whenever making changes)
+git branch "new branch name" (before making changes)
 git checkout "new branch name"
+(make changes to code)
 git add .
 git status
 git commit -m "short message"
-git checkout main
-git merge "new branch name"
-git status
-git push origin main
+git push origin "branch name"
 
+Go to browser
